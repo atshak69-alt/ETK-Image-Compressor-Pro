@@ -91,12 +91,6 @@
 
 ---
 
-## 📸 Screenshots
-
-> (Add your software screenshots here)
-
----
-
 ## 📧 Contact & Support
 
 - **Support Email:** atshak69@gmail.com
