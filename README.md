@@ -7,7 +7,9 @@
 
 **ETK Image Compressor Pro** – The world's most powerful image compression algorithm | **Powerful, Offline, Privacy-Focused**
 
----
+
+![ETK Image Compressor – Pro Edition](./image_1780004373940.jpeg)
+
 
 ## ✨ Why ETK Image Compressor Pro?
 
