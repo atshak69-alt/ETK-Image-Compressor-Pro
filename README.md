@@ -1,47 +1,56 @@
-# 🚀 ETK Image Compressor Pro
-
-[![Version](https://img.shields.io/badge/version-1.0-blue)](https://github.com/yourusername/ETK-Image-Compressor-Pro)
-[![Platform](https://img.shields.io/badge/platform-Windows%207%2F8%2F10%2F11-green)]()
-[![License](https://img.shields.io/badge/license-Pro-orange)]()
-[![Monthly Update](https://img.shields.io/badge/update-monthly-brightgreen)]()
-
-**ETK Image Compressor Pro** – The world's most powerful image compression algorithm | **Powerful, Offline, Privacy-Focused**
+https://github.com/yourusername/ETK-Image-Compressor-Pro
 
 
-![ETK Image Compressor – Pro Edition](./image_1780004373940.jpeg)
 
 
-## ✨ Why ETK Image Compressor Pro?
+ETK Image Compressor Pro – The world's most powerful image compression algorithm | Powerful, Offline, Privacy-Focused
+
+[Looks like the result wasn't safe to show. Let's switch things up and try something else!]
+
+---
+
+✨ What's New in Version 1.1 (2026 Update)
+
+- 🔥 Full support for 8K images (7680×4320)  
+- ⚡ Improved compression engine (faster + cleaner output)  
+- 🧪 Better color preservation  
+- 🧹 Improved metadata cleaner  
+- 🖼 Better preview rendering  
+- 🛠 Bug fixes & stability improvements
+
+---
+
+✨ Why ETK Image Compressor Pro?
 
 | Feature | Description |
 |---------|-------------|
-| 🏆 **Strongest Algorithm** | The newest and most powerful image compression algorithm in the world |
-| 🔒 **100% Offline** | No images uploaded to servers – complete privacy protection |
-| 📁 **Large Images** | Supports files up to 1GB – competitors crash at 20MB |
-| 🖥 **Old Systems** | Process large images smoothly even on older hardware |
-| ⚡ **Adaptive Speed** | Processing speed adjusts to your system's power (manual or auto) |
-| 🖼 **20+ Formats** | Supports JPEG, PNG, WebP, AVIF, HEIC, TIFF and more (Beta: JPEG only) |
-| 🎯 **Two Modes** | Manual mode (full control) – Quick mode (one click) |
-| 🔄 **Monthly Updates** | New update every month – for 1 full year |
-| ♾ **Lifetime Access** | One payment, lifetime use |
+| 🏆 Strongest Algorithm | The newest and most powerful image compression algorithm in the world |
+| 🔒 100% Offline | No images uploaded to servers – complete privacy protection |
+| 🖼 8K Image Support | Compress ultra‑high‑resolution images with perfect stability |
+| ⚡ Adaptive Speed | Processing speed adjusts to your system's power (manual or auto) |
+| 🖥 Old Systems Friendly | Works smoothly even on older hardware |
+| 🖼 20+ Formats | Supports JPEG, PNG, WebP, AVIF, HEIC, TIFF and more (Beta: JPEG only) |
+| 🎯 Two Modes | Manual mode (full control) – Quick mode (one click) |
+| 🔄 Monthly Updates | New update every month – for 1 full year |
+| ♾ Lifetime Access | One payment, lifetime use |
 
 ---
 
-## 📥 Download & Purchase
+📥 Download & Purchase
 
-👉 **[Buy Pro Version with 66% OFF – Only $10](https://shakster24.gumroad.com/l/fcnkut)**
+👉 Buy Pro Version with 66% OFF – Only $10
 
 | Version | Price | Discount |
 |---------|-------|----------|
-| Regular Price | ~~$30~~ | - |
-| Discounted Price | **$10** | 66% OFF |
-| Discount Code | `ETKICP` | Valid until May 30, 2026 |
+| Regular Price | $30 | - |
+| Discounted Price | $10 | 66% OFF |
+| Discount Code | ETKICP | Valid until May 30, 2026 |
 
-✅ **30-Day Money-Back Guarantee – No Questions Asked**
+✅ 30-Day Money-Back Guarantee – No Questions Asked
 
 ---
 
-## 🖥 System Requirements
+🖥 System Requirements
 
 | Requirement | Minimum |
 |-------------|---------|
@@ -53,7 +62,7 @@
 
 ---
 
-## 📅 Monthly Update Schedule
+📅 Monthly Update Schedule
 
 | Date | Content |
 |------|---------|
@@ -70,45 +79,46 @@
 | March 1, 2027 | Algorithm improvement |
 | April 1, 2027 | Final yearly update |
 
-📌 **Free updates for 1 year (until May 2027).**
+📌 Free updates for 1 year (until May 2027).
 
 ---
 
-## 🎮 Two Processing Modes
+🎮 Two Processing Modes
 
 | Mode | Description |
 |------|-------------|
-| 🎯 **Quick Mode** | One click – software automatically chooses best settings |
-| 🎛 **Manual Mode** | Full control over quality, resolution, metadata, and advanced settings |
+| 🎯 Quick Mode | One click – software automatically chooses best settings |
+| 🎛 Manual Mode | Full control over quality, resolution, metadata, and advanced settings |
 
 ---
 
-## 💪 Algorithm Power
+💪 Algorithm Power
 
-- ✅ Reduce size by **up to 90%** with near-zero quality loss
-- ✅ **35% better than JPEGmini Pro** (video proof available)
-- ✅ **5x faster** than base version
-- ✅ **Batch processing** – compress entire folders while preserving structure
-- ✅ **Metadata removal** – EXIF, GPS, camera info (one click)
-
----
-
-## 📧 Contact & Support
-
-- **Support Email:** atshak69@gmail.com
-- **Response Time:** 24 hours (Priority for Pro users)
-- **Guarantee:** 30-day money-back – no questions asked
+- ✅ Reduce size by up to 90% with near-zero quality loss  
+- ✅ 35% better than JPEGmini Pro (video proof available)  
+- ✅ 5x faster than base version  
+- ✅ Batch processing – compress entire folders while preserving structure  
+- ✅ Metadata removal – EXIF, GPS, camera info (one click)  
+- ✅ 8K image support (new)  
 
 ---
 
-## ⭐ Support
+📧 Contact & Support
+
+- Support Email: atshak69@gmail.com  
+- Response Time: 24 hours (Priority for Pro users)  
+- Guarantee: 30-day money-back – no questions asked  
+
+---
+
+⭐ Support
 
 If you like ETK Image Compressor Pro:
 
-- ⭐ **Star** this repository
-- 🐛 Report bugs in **Issues**
-- 📢 Share with your friends
+- ⭐ Star this repository  
+- 🐛 Report bugs in Issues  
+- 📢 Share with your friends  
 
 ---
 
-**© 2026 ETK Image Compressor Pro – All Rights Reserved.**
+© 2026 ETK Image Compressor Pro – All Rights Reserved.
