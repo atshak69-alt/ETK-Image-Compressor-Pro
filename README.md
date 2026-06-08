@@ -13,11 +13,11 @@ Powerful • Offline • Privacy‑Focused
 ✨ What's New in Version 1.1 (2026 Update)
 
 - 🔥 Full support for 8K images (7680×4320)  
-- ⚡ Improved compression engine (faster + cleaner output)  
+- 🖼 New output formats: PNG, WebP, TGA, EXR  
+- ⚡ Faster compression engine  
 - 🎨 Better color preservation  
 - 🧹 Improved metadata cleaner  
-- 🖼 Better preview rendering  
-- 🛠 Bug fixes & stability improvements  
+- 🛠 Stability improvements  
 
 ---
 
@@ -30,7 +30,7 @@ Powerful • Offline • Privacy‑Focused
 | 🖼 8K Image Support | Compress ultra‑high‑resolution images with perfect stability |
 | ⚡ Adaptive Speed | Processing speed adjusts to your system's power (manual or auto) |
 | 🖥 Old Systems Friendly | Works smoothly even on older hardware |
-| 🖼 20+ Formats | JPEG, PNG, WebP, AVIF, HEIC, TIFF and more (Beta: JPEG only) |
+| 🖼 20+ Formats | JPEG, PNG, WebP, AVIF, HEIC, TIFF and more |
 | 🎯 Two Modes | Manual mode (full control) – Quick mode (one click) |
 | 🔄 Monthly Updates | New update every month – for 1 full year |
 | ♾ Lifetime Access | One payment, lifetime use |
@@ -69,8 +69,8 @@ https://shakster24.gumroad.com/l/fcnkut
 | Date | Content |
 |------|---------|
 | May 1, 2026 | Windows release |
-| June 1, 2026 | PNG format support |
-| July 1, 2026 | WebP format support |
+| June 1, 2026 | PNG , WebP , TGA , EXR format support |
+| July 1, 2026 | ... format support |
 | August 1, 2026 | AVIF format support |
 | September 1, 2026 | HEIC format support |
 | October 1, 2026 | TIFF format support |
