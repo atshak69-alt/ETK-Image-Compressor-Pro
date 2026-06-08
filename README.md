@@ -1,11 +1,12 @@
-https://github.com/yourusername/ETK-Image-Compressor-Pro
+[![Version](https://img.shields.io/badge/version-1.0-blue)](https://github.com/yourusername/ETK-Image-Compressor-Pro)
+[![Platform](https://img.shields.io/badge/platform-Windows%207%2F8%2F10%2F11-green)]()
+[![License](https://img.shields.io/badge/license-Pro-orange)]()
+[![Monthly Update](https://img.shields.io/badge/update-monthly-brightgreen)]()
 
+ETK Image Compressor Pro – The world's most powerful image compression algorithm  
+Powerful • Offline • Privacy‑Focused
 
-
-
-ETK Image Compressor Pro – The world's most powerful image compression algorithm | Powerful, Offline, Privacy-Focused
-
-[Looks like the result wasn't safe to show. Let's switch things up and try something else!]
+![ETK Image Compressor – Pro Edition](./image_1780004373940.jpeg)
 
 ---
 
@@ -13,23 +14,23 @@ ETK Image Compressor Pro – The world's most powerful image compression algorit
 
 - 🔥 Full support for 8K images (7680×4320)  
 - ⚡ Improved compression engine (faster + cleaner output)  
-- 🧪 Better color preservation  
+- 🎨 Better color preservation  
 - 🧹 Improved metadata cleaner  
 - 🖼 Better preview rendering  
-- 🛠 Bug fixes & stability improvements
+- 🛠 Bug fixes & stability improvements  
 
 ---
 
 ✨ Why ETK Image Compressor Pro?
 
 | Feature | Description |
-|---------|-------------|
+|--------|-------------|
 | 🏆 Strongest Algorithm | The newest and most powerful image compression algorithm in the world |
 | 🔒 100% Offline | No images uploaded to servers – complete privacy protection |
 | 🖼 8K Image Support | Compress ultra‑high‑resolution images with perfect stability |
 | ⚡ Adaptive Speed | Processing speed adjusts to your system's power (manual or auto) |
 | 🖥 Old Systems Friendly | Works smoothly even on older hardware |
-| 🖼 20+ Formats | Supports JPEG, PNG, WebP, AVIF, HEIC, TIFF and more (Beta: JPEG only) |
+| 🖼 20+ Formats | JPEG, PNG, WebP, AVIF, HEIC, TIFF and more (Beta: JPEG only) |
 | 🎯 Two Modes | Manual mode (full control) – Quick mode (one click) |
 | 🔄 Monthly Updates | New update every month – for 1 full year |
 | ♾ Lifetime Access | One payment, lifetime use |
@@ -38,7 +39,8 @@ ETK Image Compressor Pro – The world's most powerful image compression algorit
 
 📥 Download & Purchase
 
-👉 Buy Pro Version with 66% OFF – Only $10
+👉 Buy Pro Version with 66% OFF – Only $10  
+https://shakster24.gumroad.com/l/fcnkut
 
 | Version | Price | Discount |
 |---------|-------|----------|
@@ -94,12 +96,12 @@ ETK Image Compressor Pro – The world's most powerful image compression algorit
 
 💪 Algorithm Power
 
-- ✅ Reduce size by up to 90% with near-zero quality loss  
-- ✅ 35% better than JPEGmini Pro (video proof available)  
-- ✅ 5x faster than base version  
-- ✅ Batch processing – compress entire folders while preserving structure  
-- ✅ Metadata removal – EXIF, GPS, camera info (one click)  
-- ✅ 8K image support (new)  
+- Reduce size by up to 90% with near‑zero quality loss  
+- 35% better than JPEGmini Pro (video proof available)  
+- 5× faster than base version  
+- Batch processing – compress entire folders while preserving structure  
+- Metadata removal – EXIF, GPS, camera info  
+- 8K image support (new)  
 
 ---
 
