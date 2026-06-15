@@ -10,6 +10,25 @@ Powerful • Offline • Privacy‑Focused
 
 ---
 
+## 🔗 Official Purchase Links
+
+### 🟩 **Shoppy (Always the lowest price + always discounted)**  
+https://shoppy.gg/product/UloCnHv  
+
+### 🟧 **Gumroad**  
+https://shakster24.gumroad.com/l/fcnkut  
+
+### 🟦 **Itch.io**  
+https://etk-games.itch.io/etk-image-compressor  
+
+---
+
+## 🎥 Full Real‑Time 10‑Minute Test (YouTube)
+A complete real‑time demonstration of ETK Image Compressor Pro:  
+https://youtu.be/x9WtgZIHDSM?si=iu6iVGu0GV1Oq4em
+
+---
+
 ✨ What's New in Version 1.1 (2026 Update)
 
 - 🔥 Full support for 8K images (7680×4320)  
@@ -34,21 +53,6 @@ Powerful • Offline • Privacy‑Focused
 | 🎯 Two Modes | Manual mode (full control) – Quick mode (one click) |
 | 🔄 Monthly Updates | New update every month – for 1 full year |
 | ♾ Lifetime Access | One payment, lifetime use |
-
----
-
-📥 Download & Purchase
-
-👉 Buy Pro Version with 66% OFF – Only $10  
-https://shakster24.gumroad.com/l/fcnkut
-
-| Version | Price | Discount |
-|---------|-------|----------|
-| Regular Price | $30 | - |
-| Discounted Price | $10 | 66% OFF |
-| Discount Code | ETKICP | Valid until May 30, 2026 |
-
-✅ 30-Day Money-Back Guarantee – No Questions Asked
 
 ---
 
