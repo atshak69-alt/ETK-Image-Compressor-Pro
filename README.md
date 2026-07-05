@@ -27,6 +27,10 @@ https://etk-games.itch.io/etk-image-compressor
 A complete real‑time demonstration of ETK Image Compressor Pro:  
 https://youtu.be/x9WtgZIHDSM?si=iu6iVGu0GV1Oq4em
 
+## 🎥 Update Version 1.3 (YouTube)
+Full redesign
+https://youtube.com/shorts/3ES6X1UKlXA?si=gCXPul7NRzHtc2PZ
+
 ---
 
 ✨ What's New in Version 1.1 (2026 Update)
@@ -72,9 +76,9 @@ https://youtu.be/x9WtgZIHDSM?si=iu6iVGu0GV1Oq4em
 
 | Date | Content |
 |------|---------|
-| May 1, 2026 | Windows release |
+| May 1, 2026 | Windows beta release |
 | June 1, 2026 | PNG , WebP , TGA , EXR format support |
-| July 1, 2026 | ... format support |
+| July 1, 2026 | version 1.3 release|
 | August 1, 2026 | AVIF format support |
 | September 1, 2026 | HEIC format support |
 | October 1, 2026 | TIFF format support |
