@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML_DIZ_INFO>
+  <MASTER_PAD_VERSION_INFO>
+    <MASTER_PAD_VERSION>4.00</MASTER_PAD_VERSION>
+    <MASTER_PAD_EDITOR>Arshia</MASTER_PAD_EDITOR>
+  </MASTER_PAD_VERSION_INFO>
+
+  <Program_Info>
+    <Program_Name>ETK Image Compressor Pro</Program_Name>
+    <Program_Version>1.3</Program_Version>
+    <Program_Release_Month>07</Program_Release_Month>
+    <Program_Release_Day>13</Program_Release_Day>
+    <Program_Release_Year>2026</Program_Release_Year>
+    <Program_Cost_Dollars>0</Program_Cost_Dollars>
+    <Program_Type>FreeTrial</Program_Type>
+    <Application_Type>Utility, Image Compressor</Application_Type>
+    <Program_Category>Graphics Conversion</Program_Category>
+    <Program_OS>Windows 7, Windows 8, Windows 10, Windows 11</Program_OS>
+  </Program_Info>
+
+  <Company_Info>
+    <Company_Name>ETK Software</Company_Name>
+    <Company_WebSite_URL>https://github.com/atshak69-alt/ETK-Image-Compressor-Pro</Company_WebSite_URL>
+    <Contact_Info_Email>etksoftware@gmail.com</Contact_Info_Email>
+  </Company_Info>
+
+  <Program_Descriptions>
+    <English>
+      <Program_Short_Description>
+        The World's Strongest Image Compression Algorithm
+      </Program_Short_Description>
+
+      <Program_Description>
+        The World's Strongest Image Compression Algorithm.
+
+        ETK Image Compressor Pro is a next‑generation compression engine built with a fully custom algorithm designed to deliver unmatched performance and quality. It dramatically reduces image file sizes while preserving visual clarity, making it ideal for photographers, designers, developers, and everyday users.
+
+        Key Features:
+        - Up to 90% file size reduction with minimal visible quality loss
+        - Full support for ultra‑high‑resolution images up to 8K (7680×4320)
+        - Advanced output formats: PNG, WebP, TGA, EXR
+        - Faster, cleaner, and smarter compression workflow
+        - Fully offline operation — zero uploads, zero privacy risk
+        - Optimized to run smoothly even on older or low‑spec systems
+        - Proven superiority through side‑by‑side comparison tests
+      </Program_Description>
+
+      <Keywords>
+        image compressor, photo optimizer, jpg compressor, png compressor,
+        image size reducer, batch image compression, fast image compressor,
+        offline image compressor, ETK Image Compressor Pro, 8K compression,
+        WebP compressor, EXR compressor, TGA compressor
+      </Keywords>
+    </English>
+  </Program_Descriptions>
+
+  <Program_URLs>
+    <Application_URL>https://github.com/atshak69-alt/ETK-Image-Compressor-Pro</Application_URL>
+    <Download_URL>https://github.com/atshak69-alt/ETK-Image-Compressor-Pro/releases</Download_URL>
+    <Update_Info_URL>https://github.com/atshak69-alt/ETK-Image-Compressor-Pro/releases</Update_Info_URL>
+    <Support_URL>https://github.com/atshak69-alt/ETK-Image-Compressor-Pro/issues</Support_URL>
+  </Program_URLs>
+
+  <Program_Screenshots>
+  </Program_Screenshots>
+
+  <File_Info>
+    <File_Size_MB>50</File_Size_MB>
+    <File_Type>ZIP</File_Type>
+    <File_MD5>PUT_MD5_HASH_HERE</File_MD5>
+  </File_Info>
+
+  <Legal_Info>
+    <License_Agreement_URL></License_Agreement_URL>
+    <EULA_Text>
+      This software is provided as-is without warranty. ETK Software retains all rights.
+    </EULA_Text>
+  </Legal_Info>
+</XML_DIZ_INFO>
