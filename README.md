@@ -16,10 +16,7 @@ Powerful • Offline • Privacy‑Focused
 https://shoppy.gg/product/UloCnHv  
 
 ### 🟧 **Gumroad**  
-https://shakster24.gumroad.com/l/fcnkut  
-
-### 🟦 **Itch.io**  
-https://etk-games.itch.io/etk-image-compressor  
+https://shakster24.gumroad.com/l/fcnkut    
 
 ---
 
