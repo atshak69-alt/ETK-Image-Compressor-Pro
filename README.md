@@ -1,142 +1,295 @@
-ETK Image Compressor Pro
+[![Version](https://img.shields.io/badge/version-1.5-blue)](https://github.com/atshak69-alt/ETK-Image-Compressor-Pro)
+[![Platform](https://img.shields.io/badge/platform-Windows%207%2F8%2F10%2F11-green)](https://github.com/atshak69-alt/ETK-Image-Compressor-Pro)
+[![License](https://img.shields.io/badge/license-Pro-orange)](https://github.com/atshak69-alt/ETK-Image-Compressor-Pro)
+[![Monthly Update](https://img.shields.io/badge/update-monthly-brightgreen)](https://github.com/atshak69-alt/ETK-Image-Compressor-Pro)
 
-https://img.shields.io/badge/version-1.5-blue
-https://img.shields.io/badge/platform-Windows%207%2F8%2F10%2F11-green
-https://img.shields.io/badge/license-Pro-orange
-https://img.shields.io/badge/update-monthly-brightgreen
+# ETK Image Compressor Pro
 
-ETK Image Compressor Pro – The world's most powerful image compression algorithm
-Powerful • Offline • Privacy‑Focused
+### The World's Most Powerful Image Compression Algorithm
 
-./image_1780004373940.jpeg
+**Powerful • Offline • Privacy-Focused**
 
-🔗 Official Links & Social Media
+![ETK Image Compressor – Pro Edition](./image_1780004373940.jpeg)
 
-Platform Link
-📦 GitHub (Release / Download) https://github.com/atshak69-alt/ETK-Image-Compressor-Pro
-🎥 YouTube (Test Videos) https://youtube.com/@atshak-o2p?si=3CIaHKeZLzQFRXEC
-📸 Instagram (Before/After Samples) https://www.instagram.com/etk_official_
-🏪 Microsoft Store https://apps.microsoft.com/detail/9nfrrktwqwcr
+---
 
-🔗 Official Purchase Links
+## 🔗 Official Links & Social Media
 
-🟩 Shoppy (Always the lowest price + always discounted)
+| Platform | Link |
+| :--- | :--- |
+| 📦 **GitHub — Release / Download** | [ETK Image Compressor Pro](https://github.com/atshak69-alt/ETK-Image-Compressor-Pro) |
+| 🎥 **YouTube — Test Videos** | [@atshak-o2p](https://youtube.com/@atshak-o2p?si=3CIaHKeZLzQFRXEC) |
+| 📸 **Instagram — Before/After Samples** | [@etk_official_](https://www.instagram.com/etk_official_) |
+| 🏪 **Microsoft Store** | [Get ETK Image Compressor Pro](https://apps.microsoft.com/detail/9nfrrktwqwcr) |
 
-https://shoppy.gg/product/UloCnHv
+---
 
-🟧 Gumroad
+## 🛒 Official Purchase Links
 
-https://shakster24.gumroad.com/l/fcnkut
+### 🟩 Shoppy
 
-✨ What's New in Version 1.5 (2026 Update)
+**Always the lowest price + always discounted**
 
-· 🧰 All‑New Pro Tools Suite (Premium Only) – Three powerful professional tools added: AI Upscaler, ETK Image Saver, and ETK Secure Transfer
-· 🚀 AI Upscaler (Premium Only) – True AI‑based 4x image enlargement with tile‑by‑tile processing, auto content detection, and smart protection for skin, faces, hair, text, and bokeh
-· 💾 ETK Image Saver (Premium Only) – Proprietary .etk format with AI reconstruction on open, storing blur, line, face, and detail maps for accurate quality recovery
-· 🔐 ETK Secure Transfer (Premium Only) – Share images safely with .etktoken and .etkimage files, strong unbreakable encryption, device‑locked, multi‑image bundles
-· 🔥 ETK+ Format – Our proprietary ultra‑compression engine for JPG and WebP (40‑60% smaller than standard)
-· 🛠 Pixel Repair Engine – Automatically detects and reconstructs corrupted pixels and compression artifacts
-· 🎨 Gradient Correction – Preserves smooth color transitions even at high compression
-· 📦 Full Format Support – PNG (24/32/8/Grayscale), JPG (Normal/Gray/ETK+), WebP (Lossy/Lossless/ETK+), GIF (Standard/Transparent), TIFF (Standard/Alpha/Grayscale16)
-· 🖼 18 Output Modes – Choose the perfect format for every use case
-· ⚡ Ultra‑Fast Processing – 33 images in 33 seconds on a Core i2 with 2GB RAM (see video proof)
-· 🔊 Noise Reduction – Smart denoising without losing sharpness
-· 🔧 Stability Improvements – Better memory management and crash prevention
-· 🧹 Improved Metadata Cleaner – Removes EXIF, GPS, and camera info
+[🛒 Buy on Shoppy](https://shoppy.gg/product/UloCnHv)
 
-✨ Why ETK Image Compressor Pro?
+### 🟧 Gumroad
 
-Feature Description
-🏆 Strongest Algorithm The newest and most powerful image compression algorithm in the world, featuring ETK+ engine
-🔒 100% Offline No images uploaded to servers – complete privacy protection
-🖼 8K Image Support Compress ultra‑high‑resolution images with perfect stability
-⚡ Adaptive Speed Processing speed adjusts to your system's power (manual or auto)
-🖥 Old Systems Friendly Works smoothly even on older hardware (tested on Core i2 + 2GB RAM)
-🖼 20+ Formats JPEG, PNG, WebP, AVIF, HEIC, TIFF, GIF, BMP, TGA, EXR and more
-🎯 Two Modes Manual mode (full control) – Quick mode (one click)
-🧰 Pro Tools Suite AI Upscaler, ETK Image Saver, and Secure Transfer (Premium Only)
-🔄 Monthly Updates New update every month – for 1 full year
-♾ Lifetime Access One payment, lifetime use
-🧩 Pixel Repair Automatically fixes broken pixels and compression artifacts
-📊 ETK+ Exclusive Proprietary format that beats industry standards in size/quality ratio
+[🛒 Buy on Gumroad](https://shakster24.gumroad.com/l/fcnkut)
 
-🏆 ETK+ – The Next Generation of Compression
+---
 
-ETK+ is our proprietary, ultra‑advanced compression engine that delivers the highest possible file‑size reduction while actually improving visual quality in many cases. Here's what it does for your images:
+# ✨ What's New in Version 1.5
 
-What ETK+ Does How It Benefits You
-🎯 Massive Size Reduction Reduces file sizes by 40‑60% compared to standard JPG and WebP, without making images look worse
-🔧 Fixes Broken Images Automatically detects and repairs corrupted pixels, artifacts, and flaws – especially in AI‑generated or low‑quality images
-🎨 Makes Colors Smoother Corrects color banding and uneven gradients, giving your images a cleaner, more professional look
-✨ Enhances Details Preserves sharp edges and fine textures that other compressors blur or destroy
-🧹 Removes Noise Cleans up grainy areas, resulting in a cleaner and more polished final image
-⚡ Improves Quality In many cases, the output looks better than the original because defects and artifacts are automatically removed
-🖥 Works on Any System Performs flawlessly even on older hardware with limited RAM and CPU power
-📦 Two Powerful Modes Choose between JPG ETK+ for natural colors or WebP ETK+ for advanced compression with optional transparency
+### 🧰 All-New Pro Tools Suite — Premium Only
 
-In simple terms: ETK+ doesn't just compress your images – it repairs, enhances, and optimizes them, giving you a smaller file that often looks clearer and more vibrant than the original.
+Three professional tools have been added:
 
-🧰 ETK Pro Tools Suite — Premium Only
+- 🚀 **AI Upscaler**
+- 💾 **ETK Image Saver**
+- 🔐 **ETK Secure Transfer**
 
-⚠️ The entire Tools section is available exclusively in the Premium version of ETK Image Compressor Pro.
+### 🚀 AI Upscaler — Premium Only
 
-🚀 AI Upscaler
+True AI-based **4× image enlargement** with:
 
-Professional image enlargement with true artificial intelligence
+- Tile-by-tile processing
+- Automatic content detection
+- Skin and face protection
+- Hair and fabric protection
+- Text and edge protection
+- Bokeh and natural blur preservation
+- Portrait detection
+- Group-photo detection
+- Architecture detection
+- Document detection
+- Night-photo processing
+- Old-scan processing
+- Texture and pattern enhancement
+- Adaptive preprocessing
+- Noise reduction
+- Automatic hardware optimization
+- PNG output
+- Folder selection
+- Progress display
 
-ETK AI Upscaler provides 4x enlargement using AI only, with no fake upscaling. It processes tile by tile for large images and removes seam lines. It automatically detects the image type: portrait, group photo, architecture, document, night, or old scan. It intelligently protects skin, faces, hair, fabric, text, edges, and gradients. It preserves bokeh and natural blur without adding fake details. It enhances lines, patterns, and repeating textures. It uses adaptive preprocessing and noise reduction for night photos and old scans. It automatically tunes quality and hardware for different systems. It outputs PNG with folder selection and progress display.
+### 💾 ETK Image Saver — Premium Only
 
-💾 ETK Image Saver
+A proprietary `.etk` format designed for compression and AI reconstruction.
 
-A proprietary ETK format for compression and AI reconstruction
+- Smart compression
+- AI reconstruction when opening
+- Blur maps
+- Line maps
+- Face maps
+- Detail maps
+- Automatic quality adjustment
+- Automatic downscale control
+- Content protection
+- Older-version compatibility
+- Archiving support
+- Transfer support
 
-ETK Image Saver saves photos in the exclusive .etk format. It performs smart compression and AI reconstruction when opening. It stores blur maps, line maps, face maps, and detail maps for more accurate reconstruction. It is compatible with older versions. It is suitable for archiving, transfer, and size reduction while preserving quality. It automatically adjusts quality, downscale, and content protection settings.
+### 🔐 ETK Secure Transfer — Premium Only
 
-🔐 ETK Secure Transfer
+Secure image transfer using:
 
-Secure image transfer with token and strong unbreakable encryption
+- `.etktoken` token files
+- `.etkimage` encrypted image files
+- Device-locked transfers
+- Multi-image packages
+- ETK compression before encryption
+- PNG reconstruction at destination
+- Confidential image sharing
 
-ETK Secure Transfer uses a proprietary token file .etktoken and an encrypted image file .etkimage. The encryption is strong and unbreakable. It is locked to the destination device. It supports multiple images in a single package. It compresses with ETK before encryption. It always saves PNG output at the destination. It is suitable for confidential sharing.
+### 🔥 ETK+ Format
 
-🖥 System Requirements
+Proprietary ultra-compression engine for JPG and WebP.
 
-Requirement Minimum
-OS Windows 7 / 8 / 10 / 11 (64-bit)
+**40–60% smaller than standard JPG and WebP in supported cases.**
+
+### 🛠 Pixel Repair Engine
+
+Automatically detects and reconstructs corrupted pixels and compression artifacts.
+
+### 🎨 Gradient Correction
+
+Preserves smooth color transitions even under high compression.
+
+### 📦 Full Format Support
+
+- PNG — 24-bit / 32-bit / 8-bit / Grayscale
+- JPG — Normal / Gray / ETK+
+- WebP — Lossy / Lossless / ETK+
+- GIF — Standard / Transparent
+- TIFF — Standard / Alpha / Grayscale16
+
+### 🖼 18 Output Modes
+
+Choose the output mode that best fits your workflow.
+
+### ⚡ Ultra-Fast Processing
+
+**33 images in 33 seconds on a Core i2 with 2 GB RAM.**
+
+See the test videos for demonstration.
+
+### 🔊 Noise Reduction
+
+Smart denoising while maintaining image sharpness.
+
+### 🔧 Stability Improvements
+
+Improved memory management and crash prevention.
+
+### 🧹 Improved Metadata Cleaner
+
+Removes:
+
+- EXIF
+- GPS information
+- Camera information
+
+---
+
+# ✨ Why ETK Image Compressor Pro?
+
+| Feature | Description |
+| :--- | :--- |
+| 🏆 **Powerful Algorithm** | Advanced image compression powered by the ETK+ engine |
+| 🔒 **100% Offline** | Images are processed locally without uploading them to servers |
+| 🖼 **8K Image Support** | Designed for ultra-high-resolution images |
+| ⚡ **Adaptive Speed** | Processing speed adjusts to available system resources |
+| 🖥 **Old Systems Friendly** | Designed to work on older hardware |
+| 🖼 **20+ Formats** | JPEG, PNG, WebP, AVIF, HEIC, TIFF, GIF, BMP, TGA, EXR and more |
+| 🎯 **Two Processing Modes** | Quick Mode and Manual Mode |
+| 🧰 **Pro Tools Suite** | AI Upscaler, ETK Image Saver and ETK Secure Transfer |
+| 🔄 **Monthly Updates** | Regular feature and stability updates |
+| ♾ **Lifetime Access** | One-time purchase with lifetime access |
+| 🧩 **Pixel Repair** | Automatic pixel and artifact repair |
+| 📊 **ETK+ Exclusive** | Proprietary compression technology for JPG and WebP |
+
+---
+
+# 🏆 ETK+ — The Next Generation of Compression
+
+**ETK+** is our proprietary compression engine designed for substantial file-size reduction while maintaining visual quality.
+
+| What ETK+ Does | How It Benefits You |
+| :--- | :--- |
+| 🎯 **Massive Size Reduction** | 40–60% smaller than standard JPG and WebP in supported cases |
+| 🔧 **Pixel Repair** | Detects and repairs corrupted pixels and compression artifacts |
+| 🎨 **Smoother Colors** | Corrects color banding and uneven gradients |
+| ✨ **Detail Preservation** | Preserves sharp edges and fine textures |
+| 🧹 **Noise Reduction** | Reduces unwanted grain and noise |
+| ⚡ **Quality Optimization** | Can produce visually cleaner results by reducing existing artifacts |
+| 🖥 **Efficient Processing** | Designed for systems with limited hardware resources |
+| 📦 **JPG & WebP ETK+** | Advanced compression with optional transparency support |
+
+> **ETK+ doesn't just compress your images — it repairs, enhances and optimizes them while reducing file size.**
+
+---
+
+# 🧰 ETK Pro Tools Suite
+
+## 🔒 Premium Only
+
+The complete **Pro Tools Suite** is available exclusively in the Premium version of ETK Image Compressor Pro.
+
+---
+
+## 🚀 AI Upscaler
+
+### Professional AI-powered 4× image enlargement
+
+ETK AI Upscaler provides AI-based image enlargement with intelligent content protection.
+
+| Feature | Description |
+| :--- | :--- |
+| 🧠 **AI Reconstruction** | AI-based 4× image enlargement |
+| 🔲 **Tile Processing** | Processes large images tile by tile |
+| 🧩 **Seam Protection** | Reduces visible tile seams |
+| 👤 **Face Protection** | Protects facial structure and skin |
+| 💇 **Hair Protection** | Preserves hair details |
+| 👗 **Fabric Protection** | Protects clothing textures |
+| 📝 **Text Protection** | Preserves text and sharp edges |
+| 🌫 **Bokeh Protection** | Maintains natural blur and bokeh |
+| 🏛 **Content Detection** | Detects portraits, architecture and other image types |
+| 🌙 **Night Processing** | Adaptive processing for night images |
+| 📄 **Document Processing** | Optimized processing for documents |
+| 🔍 **Detail Enhancement** | Enhances lines, patterns and textures |
+| 🔇 **Noise Reduction** | Adaptive noise reduction |
+| ⚙️ **Hardware Optimization** | Automatically adjusts processing for different systems |
+| 🖼 **PNG Output** | High-quality PNG output |
+
+---
+
+# 💾 ETK Image Saver
+
+### Proprietary `.etk` format with AI reconstruction
+
+ETK Image Saver introduces the proprietary **ETK image format**.
+
+| Feature | Description |
+| :--- | :--- |
+| 📦 **`.etk` Format** | Proprietary image storage format |
+| 🧠 **AI Reconstruction** | Reconstructs image details when opened |
+| 🌫 **Blur Maps** | Stores blur information |
+| 📏 **Line Maps** | Stores line information |
+| 👤 **Face Maps** | Stores facial information |
+| 🔍 **Detail Maps** | Stores important detail information |
+| ⚙️ **Automatic Settings** | Adjusts quality and processing parameters |
+| 🛡 **Content Protection** | Protects important image structures |
+| 🗄 **Archiving** | Suitable for long-term image storage |
+| 📤 **Transfer** | Designed for efficient image transfer |
+
+---
+
+# 🔐 ETK Secure Transfer
+
+### Secure image transfer with token-based encrypted packages
+
+ETK Secure Transfer uses:
+.etktoken
+.etkimage
+
+# Features
+🔐 Encrypted image packages
+🔑 Token-based transfer
+🖥 Destination-device locking
+🖼 Multiple images per package
+📦 ETK compression before encryption
+🖼 PNG reconstruction at destination
+🔒 Designed for confidential image sharing
+
+#🖥 System Requirements
+Windows 7 / 8 / 10 / 11 — 64-bit
 CPU 1.5 GHz or faster
 RAM 2 GB
-Storage 100 MB free space
-Internet Not required (offline)
+Storage 300 MB free space
 
-🎮 Two Processing Modes
+# 🎮 Two Processing Modes
+🎯 Quick Mode:
+One click — software automatically chooses appropriate settings
+🎛 Manual Mod:
+Full control over quality, resolution, metadata and advanced settings
 
-Mode Description
-🎯 Quick Mode One click – software automatically chooses best settings
-🎛 Manual Mode Full control over quality, resolution, metadata, and advanced settings
+# 💪 Algorithm Power
+📉 Reduce file size by up to 90% with near-zero quality loss in supported ETK+ cases
+⚡ 5× faster than the base version
+📁 Batch processing for entire folders
+🗂 Preserves folder structure during batch processing
+🧹 Metadata removal — EXIF, GPS and camera information
+🖼 8K image support
+🧩 Pixel repair for damaged pixels and compression artifacts
+📦 18 output modes
+🔥 ETK+ support for JPG and WebP
+🚀 AI Upscaler — Premium Only
+💾 ETK Image Saver — Premium Only
+🔐 ETK Secure Transfer — Premium Only
 
-💪 Algorithm Power
+# 📧 Support Email
+atshak69@gmail.com
+# ⏱ Response Time
+Within 24 hours
 
-· Reduce size by up to 90% with near‑zero quality loss (ETK+ mode)
-· 35% better than JPEGmini Pro (video proof available)
-· 5× faster than base version
-· Batch processing – compress entire folders while preserving structure
-· Metadata removal – EXIF, GPS, camera info
-· 8K image support
-· Pixel repair – reconstructs broken pixels in AI‑generated or damaged images
-· 18 output formats including ETK+ for JPG and WebP
-· Pro Tools Suite – AI Upscaler, ETK Image Saver, ETK Secure Transfer (Premium Only)
-
-📧 Contact & Support
-
-· Support Email: atshak69@gmail.com
-· Response Time: 24 hours (Priority for Pro users)
-· Guarantee: 30-day money-back – no questions asked
-
-⭐ Support
-
-If you like ETK Image Compressor Pro:
-
-· ⭐ Star this repository
-· 🐛 Report bugs in Issues
-· 📢 Share with your friends
-
-© 2026 ETK Image Compressor Pro – All Rights Reserved.
+© 2026 ETK Image Compressor Pro All Rights Reserved.
