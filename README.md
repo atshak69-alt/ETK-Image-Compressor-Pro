@@ -17,7 +17,6 @@
 
 | Platform | Link |
 | :--- | :--- |
-| 📦 **GitHub — Release / Download** | [ETK Image Compressor Pro](https://github.com/atshak69-alt/ETK-Image-Compressor-Pro) |
 | 🎥 **YouTube — Test Videos** | [@atshak-o2p](https://youtube.com/@atshak-o2p?si=3CIaHKeZLzQFRXEC) |
 | 📸 **Instagram — Before/After Samples** | [@etk_official_](https://www.instagram.com/etk_official_) |
 | 🏪 **Microsoft Store** | [Get ETK Image Compressor Pro](https://apps.microsoft.com/detail/9nfrrktwqwcr) |
