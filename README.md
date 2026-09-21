@@ -21,6 +21,7 @@
 | 🎥 **YouTube — Test Videos** | [@atshak-o2p](https://youtube.com/@atshak-o2p?si=3CIaHKeZLzQFRXEC) |
 | 📸 **Instagram — Before/After Samples** | [@etk_official_](https://www.instagram.com/etk_official_) |
 | 🏪 **Microsoft Store** | [Get ETK Image Compressor Pro](https://apps.microsoft.com/detail/9nfrrktwqwcr) |
+| 🏪 **Direct Link** | [Get ETK Image Compressor Pro ](https://drive.google.com/file/d/13qC8z42WUH4u9mtOZPbwRRB6_bdy0r15/view?usp=drivesdk) |
 
 ---
 
