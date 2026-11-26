@@ -151,6 +151,18 @@ Removes:
 
 ---
 
+### 🖥️ Software Overview
+
+<p align="center">
+  <a href="https://youtu.be/HE6dEJa_JOI">
+    <img src="https://img.youtube.com/vi/HE6dEJa_JOI/maxresdefault.jpg" width="480" alt="ETK Image Compressor Pro Demo">
+  </a>
+  <br>
+  <sub>▶ Watch ETK Image Compressor Pro in Action</sub>
+</p>
+
+---
+
 # ✨ Why ETK Image Compressor Pro?
 
 | Feature | Description |
